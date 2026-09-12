@@ -1,0 +1,448 @@
+Начало сеанса расчета рентабельности. - 27.05.2025 1-15-39
+Установлено соединение с CRM. - 27.05.2025 1-15-40
+Получение записей Проектных скидок. - 27.05.2025 1-15-40
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 1-15-40
+Получение записей Заявок акций. - 27.05.2025 1-15-40
+Получены записи Заявок акций. Количество: 0. - 27.05.2025 1-15-40
+Форматирование полученных данных. - 27.05.2025 1-15-40
+Форматирование завершено. - 27.05.2025 1-15-40
+Получение фактических себестоимостей из 1С. - 27.05.2025 1-16-17
+Возникла ошибка при работе приложения. Текст ошибки: Incorrect syntax near ')'.- 27.05.2025 1-16-17
+Окончание сеанса расчета рентабельности. - 27.05.2025 1-16-17
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 1-16-22
+Установлено соединение с CRM. - 27.05.2025 1-16-23
+Получение записей Проектных скидок. - 27.05.2025 1-16-23
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 1-16-23
+Получение записей Заявок акций. - 27.05.2025 1-16-23
+Получены записи Заявок акций. Количество: 0. - 27.05.2025 1-16-23
+Форматирование полученных данных. - 27.05.2025 1-16-23
+Форматирование завершено. - 27.05.2025 1-16-23
+Получение фактических себестоимостей из 1С. - 27.05.2025 1-16-23
+Возникла ошибка при работе приложения. Текст ошибки: Incorrect syntax near ')'.- 27.05.2025 1-16-23
+Окончание сеанса расчета рентабельности. - 27.05.2025 1-16-23
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 1-17-03
+Установлено соединение с CRM. - 27.05.2025 1-17-04
+Получение записей Проектных скидок. - 27.05.2025 1-17-04
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 1-17-04
+Получение записей Заявок акций. - 27.05.2025 1-17-04
+Получены записи Заявок акций. Количество: 0. - 27.05.2025 1-17-05
+Форматирование полученных данных. - 27.05.2025 1-17-05
+Форматирование завершено. - 27.05.2025 1-17-05
+Получение фактических себестоимостей из 1С. - 27.05.2025 1-17-05
+Возникла ошибка при работе приложения. Ошибка: System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near ')'.
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   в System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   в System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   в System.Data.SqlClient.SqlDataReader.get_MetaData()
+   в System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   в System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   в System.Data.SqlClient.SqlCommand.ExecuteReader()
+   в СalculatingProfitability.Program.RetrieveSelfCostFrom1C(Data data) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 255
+   в СalculatingProfitability.Program.Main(String[] args) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 59
+ClientConnectionId:7829983e-9779-4b8e-a4a4-9891886db8d5
+Error Number: 102, State: 1, Class: 15- 27.05.2025 1-17-05
+Окончание сеанса расчета рентабельности. - 27.05.2025 1-17-05
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 1-18-08
+Начало сеанса расчета рентабельности. - 27.05.2025 1-19-48
+Установить соединение с CRM не удалось. - 27.05.2025 1-27-33
+Окончание сеанса расчета рентабельности. - 27.05.2025 1-27-33
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 1-27-51
+Установлено соединение с CRM. - 27.05.2025 1-27-52
+Получение записей Проектных скидок. - 27.05.2025 1-27-52
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 1-27-52
+Начало сеанса расчета рентабельности. - 27.05.2025 1-28-09
+Установлено соединение с CRM. - 27.05.2025 1-28-11
+Получение записей Проектных скидок. - 27.05.2025 1-28-11
+Начало сеанса расчета рентабельности. - 27.05.2025 1-28-54
+Установлено соединение с CRM. - 27.05.2025 1-28-55
+Получение записей Проектных скидок. - 27.05.2025 1-28-55
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 1-28-55
+Начало сеанса расчета рентабельности. - 27.05.2025 1-28-58
+Установлено соединение с CRM. - 27.05.2025 1-28-58
+Получение записей Проектных скидок. - 27.05.2025 1-28-58
+Начало сеанса расчета рентабельности. - 27.05.2025 1-29-30
+Установлено соединение с CRM. - 27.05.2025 1-29-32
+Получение записей Проектных скидок. - 27.05.2025 1-29-32
+Начало сеанса расчета рентабельности. - 27.05.2025 1-30-50
+Установлено соединение с CRM. - 27.05.2025 1-30-51
+Получение записей Проектных скидок. - 27.05.2025 1-30-51
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 1-30-51
+Получение записей Заявок акций. - 27.05.2025 1-31-02
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 1-31-02
+Форматирование полученных данных. - 27.05.2025 1-31-03
+Форматирование завершено. - 27.05.2025 1-31-03
+Получение фактических себестоимостей из 1С. - 27.05.2025 1-31-03
+Начало сеанса расчета рентабельности. - 27.05.2025 1-31-40
+Установлено соединение с CRM. - 27.05.2025 1-31-41
+Получение записей Проектных скидок. - 27.05.2025 1-31-41
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 1-31-41
+Получение записей Заявок акций. - 27.05.2025 1-31-41
+Начало сеанса расчета рентабельности. - 27.05.2025 1-31-52
+Установлено соединение с CRM. - 27.05.2025 1-31-53
+Получение записей Проектных скидок. - 27.05.2025 1-31-53
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 1-31-53
+Получение записей Заявок акций. - 27.05.2025 1-31-53
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 1-31-53
+Форматирование полученных данных. - 27.05.2025 1-31-53
+Форматирование завершено. - 27.05.2025 1-31-53
+Получение фактических себестоимостей из 1С. - 27.05.2025 1-31-53
+Начало сеанса расчета рентабельности. - 27.05.2025 1-45-25
+Начало сеанса расчета рентабельности. - 27.05.2025 1-47-59
+Начало сеанса расчета рентабельности. - 27.05.2025 1-50-29
+Установлено соединение с CRM. - 27.05.2025 1-50-30
+Получение записей Проектных скидок. - 27.05.2025 1-50-30
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 1-50-30
+Получение записей Заявок акций. - 27.05.2025 1-50-30
+Начало сеанса расчета рентабельности. - 27.05.2025 1-50-40
+Установлено соединение с CRM. - 27.05.2025 1-50-41
+Получение записей Проектных скидок. - 27.05.2025 1-50-41
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 1-50-41
+Получение записей Заявок акций. - 27.05.2025 1-50-41
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 1-50-41
+Форматирование полученных данных. - 27.05.2025 1-50-42
+Форматирование завершено. - 27.05.2025 1-50-42
+Получение фактических себестоимостей из 1С. - 27.05.2025 1-50-42
+Возникла ошибка при работе приложения. Ошибка: System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near ')'.
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   в System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   в System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   в System.Data.SqlClient.SqlDataReader.get_MetaData()
+   в System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   в System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   в System.Data.SqlClient.SqlCommand.ExecuteReader()
+   в СalculatingProfitability.Program.RetrieveSelfCostFrom1C(Data data) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 250
+   в СalculatingProfitability.Program.Main(String[] args) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 59
+ClientConnectionId:e40ba02b-b7fb-4126-8f12-7f5afdc7632c
+Error Number: 102, State: 1, Class: 15- 27.05.2025 1-50-42
+Окончание сеанса расчета рентабельности. - 27.05.2025 1-50-42
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 1-51-26
+Установлено соединение с CRM. - 27.05.2025 1-51-27
+Получение записей Проектных скидок. - 27.05.2025 1-51-27
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 1-51-27
+Получение записей Заявок акций. - 27.05.2025 1-51-27
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 1-51-27
+Форматирование полученных данных. - 27.05.2025 1-51-27
+Форматирование завершено. - 27.05.2025 1-51-27
+Получение фактических себестоимостей из 1С. - 27.05.2025 1-51-27
+Начало сеанса расчета рентабельности. - 27.05.2025 1-52-29
+Установлено соединение с CRM. - 27.05.2025 1-52-30
+Получение записей Проектных скидок. - 27.05.2025 1-52-30
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 1-52-30
+Получение записей Заявок акций. - 27.05.2025 1-52-30
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 1-52-30
+Форматирование полученных данных. - 27.05.2025 1-52-30
+Форматирование завершено. - 27.05.2025 1-52-30
+Получение фактических себестоимостей из 1С. - 27.05.2025 1-52-30
+Возникла ошибка при работе приложения. Ошибка: System.InvalidCastException: Не удалось привести тип объекта "<UnionIterator>d__67`1[System.String]" к типу "System.Collections.Generic.List`1[System.String]".
+   в СalculatingProfitability.Program.RetrieveSelfCostFrom1C(Data data) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 227
+   в СalculatingProfitability.Program.Main(String[] args) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 59- 27.05.2025 1-52-30
+Окончание сеанса расчета рентабельности. - 27.05.2025 1-52-30
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 1-56-14
+Установлено соединение с CRM. - 27.05.2025 1-56-14
+Получение записей Проектных скидок. - 27.05.2025 1-56-14
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 1-56-15
+Получение записей Заявок акций. - 27.05.2025 1-56-15
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 1-56-15
+Форматирование полученных данных. - 27.05.2025 1-56-15
+Форматирование завершено. - 27.05.2025 1-56-15
+Получение фактических себестоимостей из 1С. - 27.05.2025 1-56-15
+Себестоимости получены. Кол-во успешно полученных себестоимостей: 0 из 11. - 27.05.2025 1-56-45
+Ненайденные продукты: '4c4e3132-48f9-ed11-b95c-00155d033ecc','6027281a-3cf9-ed11-b95c-00155d033ecc','d7b723b2-3bf9-ed11-b95c-00155d033ecc','5e99439e-c767-ec11-b93e-00155d00815b','20827d24-d367-ec11-b93e-00155d00815b','83bc8b89-44f9-ed11-b95c-00155d033ecc','0f4fb7ef-3ff9-ed11-b95c-00155d033ecc','9d88625f-43f9-ed11-b95c-00155d033ecc','4c660b38-3cf9-ed11-b95c-00155d033ecc','aeb2a044-55f9-ed11-b95c-00155d033ecc','0ab37ace-56f9-ed11-b95c-00155d033ecc'. - 27.05.2025 1-56-45
+Запуск процесса расчета рентабельности для записей. - 27.05.2025 1-56-45
+Расчет рентабельности завершён. - 27.05.2025 1-56-45
+Отправка данных в CRM. - 27.05.2025 1-56-45
+Данные отправлены успешно. - 27.05.2025 1-56-47
+Окончание сеанса расчета рентабельности. - 27.05.2025 1-56-47
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 2-24-17
+Установлено соединение с CRM. - 27.05.2025 2-24-18
+Получение записей Проектных скидок. - 27.05.2025 2-24-18
+Возникла ошибка при работе приложения. Ошибка: System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: 'crmpark_discount_app' entity doesn't contain attribute with Name = 'crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072 (Дополнительные сведения об ошибке — Exception details: 
+ErrorCode: 0x80041103
+Message: 'crmpark_discount_app' entity doesn't contain attribute with Name = 'crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072
+TimeStamp: 2025-05-26T23:24:18.6384922Z
+--
+Exception details: 
+ErrorCode: 0x80041103
+Message: 'crmpark_discount_app' entity doesn't contain attribute with Name = 'crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072
+TimeStamp: 2025-05-26T23:24:18.6384922Z
+--
+).- 27.05.2025 2-24-18
+Окончание сеанса расчета рентабельности. - 27.05.2025 2-24-18
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 2-26-50
+Установлено соединение с CRM. - 27.05.2025 2-26-51
+Получение записей Проектных скидок. - 27.05.2025 2-26-51
+Возникла ошибка при работе приложения. Ошибка: System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: 'crmpark_product_country' entity doesn't contain attribute with Name = 'crmpark_discount_app_product1.crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072 (Дополнительные сведения об ошибке — Exception details: 
+ErrorCode: 0x80041103
+Message: 'crmpark_product_country' entity doesn't contain attribute with Name = 'crmpark_discount_app_product1.crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072
+TimeStamp: 2025-05-26T23:26:51.4560908Z
+--
+Exception details: 
+ErrorCode: 0x80041103
+Message: 'crmpark_product_country' entity doesn't contain attribute with Name = 'crmpark_discount_app_product1.crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072
+TimeStamp: 2025-05-26T23:26:51.4560908Z
+--
+).- 27.05.2025 2-26-51
+Окончание сеанса расчета рентабельности. - 27.05.2025 2-26-51
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 2-28-56
+Установлено соединение с CRM. - 27.05.2025 2-28-57
+Получение записей Проектных скидок. - 27.05.2025 2-28-57
+Возникла ошибка при работе приложения. Ошибка: System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: 'crmpark_product_country' entity doesn't contain attribute with Name = 'crmpark_discount_app_product.crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072 (Дополнительные сведения об ошибке — Exception details: 
+ErrorCode: 0x80041103
+Message: 'crmpark_product_country' entity doesn't contain attribute with Name = 'crmpark_discount_app_product.crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072
+TimeStamp: 2025-05-26T23:29:09.9043272Z
+--
+Exception details: 
+ErrorCode: 0x80041103
+Message: 'crmpark_product_country' entity doesn't contain attribute with Name = 'crmpark_discount_app_product.crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072
+TimeStamp: 2025-05-26T23:29:09.9043272Z
+--
+).- 27.05.2025 2-29-09
+Окончание сеанса расчета рентабельности. - 27.05.2025 2-29-10
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 2-30-11
+Установлено соединение с CRM. - 27.05.2025 2-30-13
+Получение записей Проектных скидок. - 27.05.2025 2-30-13
+Возникла ошибка при работе приложения. Ошибка: System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: 'crmpark_discount_app' entity doesn't contain attribute with Name = 'crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072 (Дополнительные сведения об ошибке — Exception details: 
+ErrorCode: 0x80041103
+Message: 'crmpark_discount_app' entity doesn't contain attribute with Name = 'crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072
+TimeStamp: 2025-05-26T23:30:21.2547306Z
+--
+Exception details: 
+ErrorCode: 0x80041103
+Message: 'crmpark_discount_app' entity doesn't contain attribute with Name = 'crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072
+TimeStamp: 2025-05-26T23:30:21.2547306Z
+--
+).- 27.05.2025 2-30-21
+Окончание сеанса расчета рентабельности. - 27.05.2025 2-30-21
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 2-39-00
+Установлено соединение с CRM. - 27.05.2025 2-39-01
+Получение записей Проектных скидок. - 27.05.2025 2-39-01
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 2-39-03
+Получение записей Заявок акций. - 27.05.2025 2-39-03
+Возникла ошибка при работе приложения. Ошибка: System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: 'crmpark_product_country' entity doesn't contain attribute with Name = 'crmpark_promo_app_product1.crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072 (Дополнительные сведения об ошибке — Exception details: 
+ErrorCode: 0x80041103
+Message: 'crmpark_product_country' entity doesn't contain attribute with Name = 'crmpark_promo_app_product1.crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072
+TimeStamp: 2025-05-26T23:39:11.6713299Z
+--
+Exception details: 
+ErrorCode: 0x80041103
+Message: 'crmpark_product_country' entity doesn't contain attribute with Name = 'crmpark_promo_app_product1.crmpark_product_countryid' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=504344240, MinActiveRowVersion=504344240, MetadataInstanceId=47590072
+TimeStamp: 2025-05-26T23:39:11.6713299Z
+--
+).- 27.05.2025 2-39-11
+Окончание сеанса расчета рентабельности. - 27.05.2025 2-39-11
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 2-40-51
+Установлено соединение с CRM. - 27.05.2025 2-40-52
+Получение записей Проектных скидок. - 27.05.2025 2-40-52
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 2-40-56
+Получение записей Заявок акций. - 27.05.2025 2-40-56
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 2-40-57
+Форматирование полученных данных. - 27.05.2025 2-40-58
+Форматирование завершено. - 27.05.2025 2-40-58
+Получение фактических себестоимостей из 1С. - 27.05.2025 2-41-15
+Себестоимости получены. Кол-во успешно полученных себестоимостей: 0 из 11. - 27.05.2025 2-41-16
+Ненайденные продукты: 'f4a588e4-d567-ec11-b93e-00155d00815b','cd3034aa-c767-ec11-b93e-00155d00815b','5999439e-c767-ec11-b93e-00155d00815b','5999439e-c767-ec11-b93e-00155d00815b','1b827d24-d367-ec11-b93e-00155d00815b','e9d09564-d067-ec11-b93e-00155d00815b','e1fa2bdf-cb67-ec11-b93e-00155d00815b','8abed040-e667-ec11-b93e-00155d00815b','407d2cb0-c767-ec11-b93e-00155d00815b','c97d59ad-e767-ec11-b93e-00155d00815b','07013ce0-e967-ec11-b93e-00155d00815b'. - 27.05.2025 2-41-16
+Запуск процесса расчета рентабельности для записей. - 27.05.2025 2-41-16
+Расчет рентабельности завершён. - 27.05.2025 2-41-16
+Отправка данных в CRM. - 27.05.2025 2-41-29
+Данные отправлены успешно. - 27.05.2025 2-41-31
+Окончание сеанса расчета рентабельности. - 27.05.2025 2-41-31
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 2-54-41
+Установлено соединение с CRM. - 27.05.2025 2-54-42
+Получение записей Проектных скидок. - 27.05.2025 2-54-42
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 2-54-42
+Получение записей Заявок акций. - 27.05.2025 2-54-42
+Получены записи Заявок акций. Количество: 0. - 27.05.2025 2-54-42
+Форматирование полученных данных. - 27.05.2025 2-54-42
+Форматирование завершено. - 27.05.2025 2-54-42
+Получение фактических себестоимостей из 1С. - 27.05.2025 2-54-42
+Возникла ошибка при работе приложения. Ошибка: System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near ')'.
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   в System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   в System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   в System.Data.SqlClient.SqlDataReader.get_MetaData()
+   в System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   в System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   в System.Data.SqlClient.SqlCommand.ExecuteReader()
+   в СalculatingProfitability.Program.RetrieveSelfCostFrom1C(Data data) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 254
+   в СalculatingProfitability.Program.Main(String[] args) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 59
+ClientConnectionId:e75bae65-f638-486d-aba7-839588740fca
+Error Number: 102, State: 1, Class: 15- 27.05.2025 2-54-42
+Окончание сеанса расчета рентабельности. - 27.05.2025 2-54-42
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 2-55-04
+Установлено соединение с CRM. - 27.05.2025 2-55-06
+Получение записей Проектных скидок. - 27.05.2025 2-55-06
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 2-55-06
+Получение записей Заявок акций. - 27.05.2025 2-55-06
+Получены записи Заявок акций. Количество: 0. - 27.05.2025 2-55-06
+Форматирование полученных данных. - 27.05.2025 2-55-06
+Форматирование завершено. - 27.05.2025 2-55-06
+Получение фактических себестоимостей из 1С. - 27.05.2025 2-55-06
+Начало сеанса расчета рентабельности. - 27.05.2025 2-55-26
+Установлено соединение с CRM. - 27.05.2025 2-55-26
+Получение записей Проектных скидок. - 27.05.2025 2-55-26
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 2-55-27
+Получение записей Заявок акций. - 27.05.2025 2-55-27
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 2-55-27
+Форматирование полученных данных. - 27.05.2025 2-55-27
+Форматирование завершено. - 27.05.2025 2-55-27
+Получение фактических себестоимостей из 1С. - 27.05.2025 2-55-27
+Возникла ошибка при работе приложения. Ошибка: System.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting the nvarchar value '2022-12' to data type int.
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   в System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   в System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   в System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   в System.Data.SqlClient.SqlDataReader.Read()
+   в СalculatingProfitability.Program.RetrieveSelfCostFrom1C(Data data) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 257
+   в СalculatingProfitability.Program.Main(String[] args) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 59
+ClientConnectionId:2de73ad1-8b12-4f60-835e-e13124246e6b
+Error Number: 245, State: 1, Class: 16- 27.05.2025 2-55-32
+Окончание сеанса расчета рентабельности. - 27.05.2025 2-55-32
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 2-56-15
+Установлено соединение с CRM. - 27.05.2025 2-56-15
+Получение записей Проектных скидок. - 27.05.2025 2-56-15
+Получены записи Проектных скидок. Количество: 0. - 27.05.2025 2-56-16
+Получение записей Заявок акций. - 27.05.2025 2-56-16
+Получены записи Заявок акций. Количество: 0. - 27.05.2025 2-56-16
+Форматирование полученных данных. - 27.05.2025 2-56-16
+Форматирование завершено. - 27.05.2025 2-56-16
+Получение фактических себестоимостей из 1С. - 27.05.2025 2-56-16
+Возникла ошибка при работе приложения. Ошибка: System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near ')'.
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   в System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   в System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   в System.Data.SqlClient.SqlDataReader.get_MetaData()
+   в System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   в System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   в System.Data.SqlClient.SqlCommand.ExecuteReader()
+   в СalculatingProfitability.Program.RetrieveSelfCostFrom1C(Data data) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 254
+   в СalculatingProfitability.Program.Main(String[] args) в C:\Users\kotko\source\repos\СalculatingProfitability\СalculatingProfitability\Program.cs:строка 59
+ClientConnectionId:7e445018-e678-4dbe-8dc6-72b08b74b015
+Error Number: 102, State: 1, Class: 15- 27.05.2025 2-56-16
+Окончание сеанса расчета рентабельности. - 27.05.2025 2-56-16
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 2-56-33
+Установлено соединение с CRM. - 27.05.2025 2-56-34
+Получение записей Проектных скидок. - 27.05.2025 2-56-34
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 2-56-34
+Получение записей Заявок акций. - 27.05.2025 2-56-34
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 2-56-34
+Форматирование полученных данных. - 27.05.2025 2-56-34
+Форматирование завершено. - 27.05.2025 2-56-34
+Получение фактических себестоимостей из 1С. - 27.05.2025 2-56-34
+Себестоимости получены. Кол-во успешно полученных себестоимостей: 0 из 11. - 27.05.2025 2-56-34
+Ненайденные продукты: 'f4a588e4-d567-ec11-b93e-00155d00815b','cd3034aa-c767-ec11-b93e-00155d00815b','5999439e-c767-ec11-b93e-00155d00815b','5999439e-c767-ec11-b93e-00155d00815b','1b827d24-d367-ec11-b93e-00155d00815b','e9d09564-d067-ec11-b93e-00155d00815b','e1fa2bdf-cb67-ec11-b93e-00155d00815b','8abed040-e667-ec11-b93e-00155d00815b','407d2cb0-c767-ec11-b93e-00155d00815b','c97d59ad-e767-ec11-b93e-00155d00815b','07013ce0-e967-ec11-b93e-00155d00815b'. - 27.05.2025 2-56-34
+Запуск процесса расчета рентабельности для записей. - 27.05.2025 2-56-34
+Расчет рентабельности завершён. - 27.05.2025 2-56-34
+Отправка данных в CRM. - 27.05.2025 2-56-34
+Данные отправлены успешно. - 27.05.2025 2-56-36
+Окончание сеанса расчета рентабельности. - 27.05.2025 2-56-36
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 3-15-53
+Установлено соединение с CRM. - 27.05.2025 3-15-56
+Получение записей Проектных скидок. - 27.05.2025 3-15-56
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 3-15-56
+Получение записей Заявок акций. - 27.05.2025 3-15-56
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 3-15-56
+Форматирование полученных данных. - 27.05.2025 3-15-57
+Форматирование завершено. - 27.05.2025 3-15-57
+Получение фактических себестоимостей из 1С. - 27.05.2025 3-15-57
+Себестоимости получены. Кол-во успешно полученных себестоимостей: 0 из 11. - 27.05.2025 3-16-10
+Ненайденные продукты: 'f4a588e4-d567-ec11-b93e-00155d00815b','cd3034aa-c767-ec11-b93e-00155d00815b','5999439e-c767-ec11-b93e-00155d00815b','5999439e-c767-ec11-b93e-00155d00815b','1b827d24-d367-ec11-b93e-00155d00815b','e9d09564-d067-ec11-b93e-00155d00815b','e1fa2bdf-cb67-ec11-b93e-00155d00815b','8abed040-e667-ec11-b93e-00155d00815b','407d2cb0-c767-ec11-b93e-00155d00815b','c97d59ad-e767-ec11-b93e-00155d00815b','07013ce0-e967-ec11-b93e-00155d00815b'. - 27.05.2025 3-16-10
+Запуск процесса расчета рентабельности для записей. - 27.05.2025 3-16-10
+Расчет рентабельности завершён. - 27.05.2025 3-16-10
+Отправка данных в CRM. - 27.05.2025 3-16-10
+Данные отправлены успешно. - 27.05.2025 3-16-32
+Окончание сеанса расчета рентабельности. - 27.05.2025 3-16-32
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 3-30-07
+Установлено соединение с CRM. - 27.05.2025 3-30-08
+Получение записей Проектных скидок. - 27.05.2025 3-30-08
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 3-30-08
+Получение записей Заявок акций. - 27.05.2025 3-30-08
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 3-30-09
+Форматирование полученных данных. - 27.05.2025 3-30-09
+Форматирование завершено. - 27.05.2025 3-30-09
+Получение фактических себестоимостей из 1С. - 27.05.2025 3-30-09
+Себестоимости получены. Кол-во успешно полученных себестоимостей: 0 из 11. - 27.05.2025 3-30-09
+Ненайденные продукты: 'f4a588e4-d567-ec11-b93e-00155d00815b','cd3034aa-c767-ec11-b93e-00155d00815b','5999439e-c767-ec11-b93e-00155d00815b','5999439e-c767-ec11-b93e-00155d00815b','1b827d24-d367-ec11-b93e-00155d00815b','e9d09564-d067-ec11-b93e-00155d00815b','e1fa2bdf-cb67-ec11-b93e-00155d00815b','8abed040-e667-ec11-b93e-00155d00815b','407d2cb0-c767-ec11-b93e-00155d00815b','c97d59ad-e767-ec11-b93e-00155d00815b','07013ce0-e967-ec11-b93e-00155d00815b'. - 27.05.2025 3-30-09
+Запуск процесса расчета рентабельности для записей. - 27.05.2025 3-30-09
+Расчет рентабельности завершён. - 27.05.2025 3-30-09
+Отправка данных в CRM. - 27.05.2025 3-30-09
+Данные отправлены успешно. - 27.05.2025 3-30-16
+Окончание сеанса расчета рентабельности. - 27.05.2025 3-30-16
+
+
+Начало сеанса расчета рентабельности. - 27.05.2025 3-33-35
+Установлено соединение с CRM. - 27.05.2025 3-33-36
+Получение записей Проектных скидок. - 27.05.2025 3-33-36
+Получены записи Проектных скидок. Количество: 8. - 27.05.2025 3-33-36
+Получение записей Заявок акций. - 27.05.2025 3-33-36
+Получены записи Заявок акций. Количество: 3. - 27.05.2025 3-33-37
+Форматирование полученных данных. - 27.05.2025 3-33-37
+Форматирование завершено. - 27.05.2025 3-33-37
+Получение фактических себестоимостей из 1С. - 27.05.2025 3-33-37
+Себестоимости получены. Кол-во успешно полученных себестоимостей: 0 из 11. - 27.05.2025 3-33-38
+Ненайденные продукты: 'f4a588e4-d567-ec11-b93e-00155d00815b','cd3034aa-c767-ec11-b93e-00155d00815b','5999439e-c767-ec11-b93e-00155d00815b','5999439e-c767-ec11-b93e-00155d00815b','1b827d24-d367-ec11-b93e-00155d00815b','e9d09564-d067-ec11-b93e-00155d00815b','e1fa2bdf-cb67-ec11-b93e-00155d00815b','8abed040-e667-ec11-b93e-00155d00815b','407d2cb0-c767-ec11-b93e-00155d00815b','c97d59ad-e767-ec11-b93e-00155d00815b','07013ce0-e967-ec11-b93e-00155d00815b'. - 27.05.2025 3-33-38
+Запуск процесса расчета рентабельности для записей. - 27.05.2025 3-33-38
+Расчет рентабельности завершён. - 27.05.2025 3-33-38
+Отправка данных в CRM. - 27.05.2025 3-33-38
+Данные отправлены успешно. - 27.05.2025 3-33-53
+Окончание сеанса расчета рентабельности. - 27.05.2025 3-33-53
+
+
+Начало сеанса расчета рентабельности. - 03.07.2025 20-16-52
